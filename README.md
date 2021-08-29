@@ -1,5 +1,5 @@
-# ML-projects
-My struggles and experiments with ML
+# ML-projects1_Simple Regression_Model
+#My struggles and experiments with ML
 
 import pandas as pd
 import numpy as np
